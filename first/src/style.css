@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('./assets/background.png');
+    background-size: cover; /* Растянуть изображение по размерам контейнера */
+    background-position: center; /* Выровнять изображение по центру */
+    background-repeat:repeat-y; /* Запретить повторение изображения */
+    font-family: Arial, sans-serif; /* Шрифт для текста на странице */
+    color: #333; /* Цвет текста */
+    background-attachment: fixed;
+    
+  }
